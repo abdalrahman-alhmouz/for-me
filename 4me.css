@@ -1,0 +1,39 @@
+h1 {
+    color: rgb(241, 229, 229);
+    font-size: 4rem;
+}
+p {
+    font-size: 20px;
+    color: rgb(238, 154, 27);
+    
+    padding: 5px;
+    border: solid black ;
+    border-width: 5px;
+}
+
+body {
+background-image: url(/3-deer-wildlife-photography.jpg);
+background-size: 80rem;
+
+}
+button {
+padding: 12px ; 
+border: 5px solid black;
+border-radius: 20px;
+font-size: 12px;
+background-color: coral;
+display:inline-block ;
+text - align : center;
+}
+
+text area {
+    height: 1px;
+}
+
+a {
+font-size:30px;
+color: rgb(33, 156, 140);
+display: inline-block ;
+text-align: center ;
+
+}
